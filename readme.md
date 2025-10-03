@@ -199,6 +199,13 @@ Boileragents builds practical, ready-to-use boilerplates so you can skip the bor
 
 ---
 
-If this boilerplate saved you time, give it a ⭐ on GitHub and share your feedback.
-Need a custom feature? Reach out at `boileragents@gmail.com`.
-👉 Subscribe to get updates on new boilerplates, free resources, and practical tips — [https://boileragent.gumroad.com/](https://boileragent.gumroad.com/)
+## If you found this boilerplate useful, you might also like it's pro-version:
+
+- [FiloraFS – Easy & Secure File Storage System for Developers](https://boileragent.gumroad.com/l/filorafs-file-storage-system)  
+  *Secure login, role-based access, AWS S3 file storage service in minutes.*
+
+---
+
+- If this boilerplate saved you time, give it a ⭐ on GitHub and share your feedback.
+- Need a custom feature? Reach out at `boileragents@gmail.com`.
+- 👉 Subscribe to get updates on new boilerplates, free resources, and practical tips — [https://boileragent.gumroad.com/](https://boileragent.gumroad.com/)
